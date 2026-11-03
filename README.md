@@ -8,7 +8,6 @@ Many projects still carry the old `netlify-cms` name. They are listed when they 
 
 - [Official](#official)
 - [Documentation](#documentation)
-- [Forks and Alternatives](#forks-and-alternatives)
 - [Authentication](#authentication)
 - [Framework Integrations](#framework-integrations)
 - [Starters and Templates](#starters-and-templates)
@@ -39,12 +38,6 @@ Many projects still carry the old `netlify-cms` name. They are listed when they 
 - [Work with a local repository](https://decapcms.org/docs/decap-proxy/) - Edit content locally without a remote backend.
 - [External OAuth clients](https://decapcms.org/docs/external-oauth-clients/) - Community-maintained OAuth providers for hosting outside Netlify.
 - [Examples](https://decapcms.org/docs/examples/) - Sites and projects built with Decap.
-
-## Forks and Alternatives
-
-- [Sveltia CMS](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS built as a drop-in successor to Netlify/Decap CMS, with a focus on UX, i18n and mobile.
-- [laikacms/decap-cms](https://github.com/laikacms/decap-cms) - Decap CMS v4 fork: single TypeScript package with subpath exports and a Plate-based rich text editor.
-- [Static CMS](https://github.com/StaticJsCMS/static-cms) - Netlify CMS fork with a reworked UI. (archived)
 
 ## Authentication
 
